@@ -1,7 +1,7 @@
 ---
 title: "DevOps Intern"
 description: "Climb the Clouds"
-dateString: May 2019 - July 2019
+dateString: Jan 2022 - Sep 2022
 draft: false
 tags: []
 showToc: false

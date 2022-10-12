@@ -9,7 +9,7 @@ weight: 203
 cover:
     image: "projects/automated-image-captioning/cover.jpeg"
 --- 
-### 🔗 [Colab Notebook](https://colab.research.google.com/drive/1Q553uslYW3Ho6P1G46SOEDxOS_VmHXfJ)
+### 🔗 []()
 
 ## Description
 In this project, I...
