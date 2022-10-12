@@ -29,10 +29,10 @@ menu:
     #   name: Tags
     #   url: /tags
     #   weight: 60
-    - identifier: notes
-      name: Notes
-      url: https://notes.arkalim.org
-      weight: 70
+    #- identifier: notes
+    # name: Notes
+    #  url: https://notes.arkalim.org
+    #  weight: 70
 
 params:
   # theme
@@ -49,13 +49,13 @@ params:
   profileMode:
     enabled: true
     title: "Rodrigo Soares"
-    subtitle: Incoming [**Web Programmer**](https://imdfic.imd.ufrn.br/index) at the **University of Rio Grande Do Norte** and Software Engineer 🧑🏻‍💻 at [**Estácio de Sá University**](https://estacio.br/cursos/graduacao/engenharia-de-software). 
+    subtitle: Incoming [**Web Programmer**](https://imdfic.imd.ufrn.br/index) at the **University of Rio Grande Do Norte** and Software Engineer 🧑🏻‍💻 at [**Estácio de Sá University**](https://estacio.br/cursos/graduacao/engenharia-de-software). <br><br> If you want to know me better, I suggest you explore this clean and simple site. <br>You can start by clicking the **links above** or accessing my **social media**. You can also send an **e-mail** using the icons below. 
     imageUrl: "home/me.jpg"
-    imageWidth: 220
-    imageHeight: 220
-    # buttons:
-    #   - name: Resume
-    #     url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
+    imageWidth: 180
+    imageHeight: 180
+  #   buttons:
+  #     - name: Resume
+  #     url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
 
   # List View
   hideDescriptionInList: false
@@ -67,15 +67,16 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:rodrigoseal@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/rodrigo-soares-93124041/"
     - name: "github"
       url: "https://github.com/RodrigoHSoares"
-    - name: "youtube"
-      url: ""
+  #  - name: "youtube"
+   #   url: ""
     - name: "cv"
       url: ""
+
 
   # text search
   fuseOpts:

@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Experiences on Abdur Rahman</title>
-    <link>https://arkalim.org/experience/</link>
-    <description>Recent content in Experiences on Abdur Rahman</description>
+    <title>Experiences on Rodrigo Soares</title>
+    <link>https:/experience/</link>
+    <description>Recent content in Experiences on Rodrigo Soares</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://arkalim.org/experience/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https:/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend Engineer</title>
-      <link>https://arkalim.org/experience/buyerassist/</link>
+      <link>https:/experience/buyerassist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/experience/buyerassist/</guid>
+      <guid>https:/experience/buyerassist/</guid>
       <description>BuyerAssist (India)</description>
     </item>
     
     <item>
-      <title>Remote Research Intern</title>
-      <link>https://arkalim.org/experience/tumunich/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/experience/tumunich/</guid>
-      <description>Technical University of Munich (Germany)</description>
-    </item>
-    
-    <item>
-      <title>Software Intern</title>
-      <link>https://arkalim.org/experience/origin-health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/experience/origin-health/</guid>
-      <description>OriginHealth (Singapore)</description>
-    </item>
-    
-    <item>
       <title>Computer Vision Intern</title>
-      <link>https://arkalim.org/experience/iit-madras/</link>
+      <link>https:/experience/iit-madras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/experience/iit-madras/</guid>
+      <guid>https:/experience/iit-madras/</guid>
       <description>IIT Madras (India)</description>
     </item>
     

@@ -1,179 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Abdur Rahman</title>
-    <link>https://arkalim.org/</link>
-    <description>Recent content on Abdur Rahman</description>
+    <title>Rodrigo Soares</title>
+    <link>https:/</link>
+    <description>Recent content on Rodrigo Soares</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://arkalim.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https:/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I passed the AWS SAA Certification Exam</title>
-      <link>https://arkalim.org/blog/aws-saa-certification/</link>
+      <title>I passed the AWS Cloud Practitioner</title>
+      <link>https:/blog/aws-cp-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/blog/aws-saa-certification/</guid>
-      <description>How I passed the AWS Solutions Architect-Associate Certification Exam</description>
-    </item>
-    
-    <item>
-      <title>Kindle to Notion</title>
-      <link>https://arkalim.org/blog/kindle-to-notion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/blog/kindle-to-notion/</guid>
-      <description>A way to seamlessly transfer your Kindle highlights to Notion Database!</description>
+      <guid>https:/blog/aws-cp-certification/</guid>
+      <description>How I&amp;#39;m studying to pass the AWS Solutions Architect-Associate Certification Exam</description>
     </item>
     
     <item>
       <title>Face Landmarks Detection using CNN</title>
-      <link>https://arkalim.org/blog/face-landmarks-detection/</link>
+      <link>https:/blog/face-landmarks-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/blog/face-landmarks-detection/</guid>
+      <guid>https:/blog/face-landmarks-detection/</guid>
       <description>Can computers really understand the human face?</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning - Visualized</title>
-      <link>https://arkalim.org/blog/machine-learning-visualized/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/blog/machine-learning-visualized/</guid>
-      <description>A visual approach to understand machine learning</description>
     </item>
     
     <item>
       <title>Face Dataset Compression using PCA</title>
-      <link>https://arkalim.org/blog/face-dataset-compression/</link>
+      <link>https:/blog/face-dataset-compression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/blog/face-dataset-compression/</guid>
+      <guid>https:/blog/face-dataset-compression/</guid>
       <description>Principal Component Analysis for Image Dataset Compression</description>
     </item>
     
     <item>
-      <title>Principal Component Analysis - Visualized</title>
-      <link>https://arkalim.org/blog/pca-visualized/</link>
+      <title>Climb The Clouds (Escalando a nuvem)</title>
+      <link>https:/projects/automated-image-captioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/blog/pca-visualized/</guid>
-      <description>Data compression using Principal Component Analysis (PCA)</description>
-    </item>
-    
-    <item>
-      <title>Obsidian Publish using GitHub Action</title>
-      <link>https://arkalim.org/projects/obsidian-publish-github-action/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/obsidian-publish-github-action/</guid>
-      <description>A custom GitHub Action to publish Obsidian notes as a website</description>
-    </item>
-    
-    <item>
-      <title>Kindle to Notion</title>
-      <link>https://arkalim.org/projects/kindle-to-notion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/kindle-to-notion/</guid>
-      <description>A way to seamlessly transfer your Kindle highlights to Notion Database!</description>
-    </item>
-    
-    <item>
-      <title>Automated Image Captioning (Bachelor Thesis)</title>
-      <link>https://arkalim.org/projects/automated-image-captioning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/automated-image-captioning/</guid>
-      <description>Can computers summarize the contents of an image?</description>
-    </item>
-    
-    <item>
-      <title>Todo List App</title>
-      <link>https://arkalim.org/projects/todo-list-app/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/todo-list-app/</guid>
-      <description>A Todo list web application built using React</description>
+      <guid>https:/projects/automated-image-captioning/</guid>
+      <description>Applying Twelve-Factor to a Website</description>
     </item>
     
     <item>
       <title>Face Landmarks Detection using CNN</title>
-      <link>https://arkalim.org/projects/face-landmarks-detection/</link>
+      <link>https:/projects/face-landmarks-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/projects/face-landmarks-detection/</guid>
+      <guid>https:/projects/face-landmarks-detection/</guid>
       <description>Can computers really understand the human face?</description>
     </item>
     
     <item>
-      <title>Gaze-tracking Goggles</title>
-      <link>https://arkalim.org/projects/gaze-tracking-goggles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/gaze-tracking-goggles/</guid>
-      <description>Smart Goggles for Gaze Analysis</description>
-    </item>
-    
-    <item>
-      <title>OpenQuad</title>
-      <link>https://arkalim.org/projects/openquad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/openquad/</guid>
-      <description>Open-souce platform for drone automation</description>
-    </item>
-    
-    <item>
-      <title>Search and Reconnaissance Robot</title>
-      <link>https://arkalim.org/projects/search-and-reconnaissance-robot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/search-and-reconnaissance-robot/</guid>
-      <description>An all-terrain robot for disaster management!</description>
-    </item>
-    
-    <item>
-      <title>SEBART-Pro</title>
-      <link>https://arkalim.org/projects/sebart-pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/projects/sebart-pro/</guid>
-      <description>A smart self-balancing robot!</description>
-    </item>
-    
-    <item>
       <title>Backend Engineer</title>
-      <link>https://arkalim.org/experience/buyerassist/</link>
+      <link>https:/experience/buyerassist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/experience/buyerassist/</guid>
+      <guid>https:/experience/buyerassist/</guid>
       <description>BuyerAssist (India)</description>
     </item>
     
     <item>
-      <title>Remote Research Intern</title>
-      <link>https://arkalim.org/experience/tumunich/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/experience/tumunich/</guid>
-      <description>Technical University of Munich (Germany)</description>
-    </item>
-    
-    <item>
-      <title>Software Intern</title>
-      <link>https://arkalim.org/experience/origin-health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/experience/origin-health/</guid>
-      <description>OriginHealth (Singapore)</description>
-    </item>
-    
-    <item>
       <title>Computer Vision Intern</title>
-      <link>https://arkalim.org/experience/iit-madras/</link>
+      <link>https:/experience/iit-madras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/experience/iit-madras/</guid>
+      <guid>https:/experience/iit-madras/</guid>
       <description>IIT Madras (India)</description>
     </item>
     

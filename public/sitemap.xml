@@ -2,140 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arkalim.org/blog/aws-saa-certification/</loc>
+    <loc>https:/blog/aws-cp-certification/</loc>
   </url><url>
-    <loc>https://arkalim.org/blog/kindle-to-notion/</loc>
+    <loc>https:/blog/face-landmarks-detection/</loc>
   </url><url>
-    <loc>https://arkalim.org/blog/face-landmarks-detection/</loc>
+    <loc>https:/blog/face-dataset-compression/</loc>
   </url><url>
-    <loc>https://arkalim.org/blog/machine-learning-visualized/</loc>
+    <loc>https:/projects/automated-image-captioning/</loc>
   </url><url>
-    <loc>https://arkalim.org/blog/face-dataset-compression/</loc>
+    <loc>https:/projects/face-landmarks-detection/</loc>
   </url><url>
-    <loc>https://arkalim.org/blog/pca-visualized/</loc>
+    <loc>https:/experience/buyerassist/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/obsidian-publish-github-action/</loc>
+    <loc>https:/experience/iit-madras/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/kindle-to-notion/</loc>
+    <loc>https:/tags/ai/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/automated-image-captioning/</loc>
+    <loc>https:/tags/aws/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/todo-list-app/</loc>
+    <loc>https:/blog/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/face-landmarks-detection/</loc>
+    <loc>https:/tags/buildpack/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/gaze-tracking-goggles/</loc>
+    <loc>https:/categories/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/openquad/</loc>
+    <loc>https:/tags/certification/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/search-and-reconnaissance-robot/</loc>
+    <loc>https:/tags/cloud-practitioner/</loc>
   </url><url>
-    <loc>https://arkalim.org/projects/sebart-pro/</loc>
+    <loc>https:/tags/compose/</loc>
   </url><url>
-    <loc>https://arkalim.org/experience/buyerassist/</loc>
+    <loc>https:/tags/data-compression/</loc>
   </url><url>
-    <loc>https://arkalim.org/experience/tumunich/</loc>
+    <loc>https:/tags/devops/</loc>
   </url><url>
-    <loc>https://arkalim.org/experience/origin-health/</loc>
+    <loc>https:/tags/dl/</loc>
   </url><url>
-    <loc>https://arkalim.org/experience/iit-madras/</loc>
+    <loc>https:/tags/docker/</loc>
   </url><url>
-    <loc>https://arkalim.org/</loc>
+    <loc>https:/experience/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/ai/</loc>
+    <loc>https:/tags/express/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/arduino/</loc>
+    <loc>https:/tags/fusoeseaquisicoes/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/automation/</loc>
+    <loc>https:/tags/mern-stack/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/aws/</loc>
+    <loc>https:/tags/ml/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/aws-saa/</loc>
+    <loc>https:/tags/mongodb/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/bash/</loc>
+    <loc>https:/tags/nodejs/</loc>
   </url><url>
-    <loc>https://arkalim.org/blog/</loc>
+    <loc>https:/tags/pca/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/c&#43;&#43;/</loc>
+    <loc>https:/tags/php/</loc>
   </url><url>
-    <loc>https://arkalim.org/categories/</loc>
+    <loc>https:/projects/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/certification/</loc>
+    <loc>https:/tags/python/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/cnn/</loc>
+    <loc>https:/tags/pytorch/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/computer-vision/</loc>
+    <loc>https:/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/crnn/</loc>
+    <loc>https:/search/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/css/</loc>
+    <loc>https:/tags/</loc>
   </url><url>
-    <loc>https://arkalim.org/tags/data-compression/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/dl/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/docker/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/drone/</loc>
-  </url><url>
-    <loc>https://arkalim.org/experience/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/express/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/frontend-development/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/github-action/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/html/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/integration/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/javascript/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/lstm/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/mern-stack/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/mkdocs/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/ml/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/mongodb/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/node.js/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/nodejs/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/notion/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/pca/</loc>
-  </url><url>
-    <loc>https://arkalim.org/projects/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/python/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/pytorch/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/raspberry-pi/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/react/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/regex/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/rest-api/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/robotics/</loc>
-  </url><url>
-    <loc>https://arkalim.org/search/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/solutions-architect/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/typescript/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/visualization/</loc>
-  </url><url>
-    <loc>https://arkalim.org/tags/web-development/</loc>
+    <loc>https:/tags/typescript/</loc>
   </url>
 </urlset>

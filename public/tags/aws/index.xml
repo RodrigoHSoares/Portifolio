@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AWS on Abdur Rahman</title>
-    <link>https://arkalim.org/tags/aws/</link>
-    <description>Recent content in AWS on Abdur Rahman</description>
+    <title>AWS on Rodrigo Soares</title>
+    <link>https:/tags/aws/</link>
+    <description>Recent content in AWS on Rodrigo Soares</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://arkalim.org/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https:/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I passed the AWS SAA Certification Exam</title>
-      <link>https://arkalim.org/blog/aws-saa-certification/</link>
+      <title>I passed the AWS Cloud Practitioner</title>
+      <link>https:/blog/aws-cp-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/blog/aws-saa-certification/</guid>
-      <description>How I passed the AWS Solutions Architect-Associate Certification Exam</description>
+      <guid>https:/blog/aws-cp-certification/</guid>
+      <description>How I&amp;#39;m studying to pass the AWS Solutions Architect-Associate Certification Exam</description>
     </item>
     
     <item>
-      <title>Obsidian Publish using GitHub Action</title>
-      <link>https://arkalim.org/projects/obsidian-publish-github-action/</link>
+      <title>Climb The Clouds (Escalando a nuvem)</title>
+      <link>https:/projects/automated-image-captioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/projects/obsidian-publish-github-action/</guid>
-      <description>A custom GitHub Action to publish Obsidian notes as a website</description>
+      <guid>https:/projects/automated-image-captioning/</guid>
+      <description>Applying Twelve-Factor to a Website</description>
     </item>
     
     <item>
       <title>Backend Engineer</title>
-      <link>https://arkalim.org/experience/buyerassist/</link>
+      <link>https:/experience/buyerassist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/experience/buyerassist/</guid>
+      <guid>https:/experience/buyerassist/</guid>
       <description>BuyerAssist (India)</description>
     </item>
     

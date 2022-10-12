@@ -1,386 +1,197 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Abdur Rahman</title>
-    <link>https://arkalim.org/tags/</link>
-    <description>Recent content in Tags on Abdur Rahman</description>
+    <title>Tags on Rodrigo Soares</title>
+    <link>https:/tags/</link>
+    <description>Recent content in Tags on Rodrigo Soares</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://arkalim.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https:/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://arkalim.org/tags/ai/</link>
+      <link>https:/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arduino</title>
-      <link>https://arkalim.org/tags/arduino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automation</title>
-      <link>https://arkalim.org/tags/automation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/automation/</guid>
+      <guid>https:/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>https://arkalim.org/tags/aws/</link>
+      <link>https:/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/aws/</guid>
+      <guid>https:/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AWS SAA</title>
-      <link>https://arkalim.org/tags/aws-saa/</link>
+      <title>BuildPack</title>
+      <link>https:/tags/buildpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/aws-saa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash</title>
-      <link>https://arkalim.org/tags/bash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://arkalim.org/tags/c&#43;&#43;/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/c&#43;&#43;/</guid>
+      <guid>https:/tags/buildpack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Certification</title>
-      <link>https://arkalim.org/tags/certification/</link>
+      <link>https:/tags/certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/certification/</guid>
+      <guid>https:/tags/certification/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CNN</title>
-      <link>https://arkalim.org/tags/cnn/</link>
+      <title>Cloud Practitioner</title>
+      <link>https:/tags/cloud-practitioner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/cnn/</guid>
+      <guid>https:/tags/cloud-practitioner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Computer Vision</title>
-      <link>https://arkalim.org/tags/computer-vision/</link>
+      <title>Compose</title>
+      <link>https:/tags/compose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CRNN</title>
-      <link>https://arkalim.org/tags/crnn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/crnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>https://arkalim.org/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/css/</guid>
+      <guid>https:/tags/compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Compression</title>
-      <link>https://arkalim.org/tags/data-compression/</link>
+      <link>https:/tags/data-compression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/data-compression/</guid>
+      <guid>https:/tags/data-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https:/tags/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https:/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DL</title>
-      <link>https://arkalim.org/tags/dl/</link>
+      <link>https:/tags/dl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/dl/</guid>
+      <guid>https:/tags/dl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://arkalim.org/tags/docker/</link>
+      <link>https:/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drone</title>
-      <link>https://arkalim.org/tags/drone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/drone/</guid>
+      <guid>https:/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Express</title>
-      <link>https://arkalim.org/tags/express/</link>
+      <link>https:/tags/express/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/express/</guid>
+      <guid>https:/tags/express/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Frontend Development</title>
-      <link>https://arkalim.org/tags/frontend-development/</link>
+      <title>fusoeseaquisicoes</title>
+      <link>https:/tags/fusoeseaquisicoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/frontend-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub Action</title>
-      <link>https://arkalim.org/tags/github-action/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/github-action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://arkalim.org/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integration</title>
-      <link>https://arkalim.org/tags/integration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://arkalim.org/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LSTM</title>
-      <link>https://arkalim.org/tags/lstm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/lstm/</guid>
+      <guid>https:/tags/fusoeseaquisicoes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MERN Stack</title>
-      <link>https://arkalim.org/tags/mern-stack/</link>
+      <link>https:/tags/mern-stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/mern-stack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MkDocs</title>
-      <link>https://arkalim.org/tags/mkdocs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/mkdocs/</guid>
+      <guid>https:/tags/mern-stack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ML</title>
-      <link>https://arkalim.org/tags/ml/</link>
+      <link>https:/tags/ml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/ml/</guid>
+      <guid>https:/tags/ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MongoDB</title>
-      <link>https://arkalim.org/tags/mongodb/</link>
+      <link>https:/tags/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/mongodb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Node.JS</title>
-      <link>https://arkalim.org/tags/node.js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/node.js/</guid>
+      <guid>https:/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NodeJS</title>
-      <link>https://arkalim.org/tags/nodejs/</link>
+      <link>https:/tags/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/nodejs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Notion</title>
-      <link>https://arkalim.org/tags/notion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/notion/</guid>
+      <guid>https:/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PCA</title>
-      <link>https://arkalim.org/tags/pca/</link>
+      <link>https:/tags/pca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/pca/</guid>
+      <guid>https:/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>https:/tags/php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https:/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://arkalim.org/tags/python/</link>
+      <link>https:/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/python/</guid>
+      <guid>https:/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://arkalim.org/tags/pytorch/</link>
+      <link>https:/tags/pytorch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi</title>
-      <link>https://arkalim.org/tags/raspberry-pi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/raspberry-pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://arkalim.org/tags/react/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RegEx</title>
-      <link>https://arkalim.org/tags/regex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/regex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST API</title>
-      <link>https://arkalim.org/tags/rest-api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/rest-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://arkalim.org/tags/robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solutions Architect</title>
-      <link>https://arkalim.org/tags/solutions-architect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/solutions-architect/</guid>
+      <guid>https:/tags/pytorch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TypeScript</title>
-      <link>https://arkalim.org/tags/typescript/</link>
+      <link>https:/tags/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkalim.org/tags/typescript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>https://arkalim.org/tags/visualization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>https://arkalim.org/tags/web-development/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkalim.org/tags/web-development/</guid>
+      <guid>https:/tags/typescript/</guid>
       <description></description>
     </item>
     
