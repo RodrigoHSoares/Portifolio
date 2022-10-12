@@ -10,6 +10,6 @@ weight: 304
 ### 🔗 [GitHub]()
 
 ## Description
-**Guide:** **Prof. Dr. Pratyush Kumar** (Assistant Professor, Dept. of Computer Science, IIT Madras)
+**Guide:** **** 
 
 During my internship, I worked under the guidance of ...
