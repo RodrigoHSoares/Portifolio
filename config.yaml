@@ -51,7 +51,7 @@ params:
     title: "Rodrigo Soares"
     subtitle: As a highly motivated and driven [**Software Engineer**](https://estacio.br/cursos/graduacao/engenharia-de-software). <br> I am committed to delivering innovative and impactful technology solutions. With experience in DevOps and a commitment to continuous learning, I am confident in my ability to quickly adapt to new technologies and methodologies. <br> I am excited to share my portfolio with you and showcase my skills and experiences. 
     imageUrl: "home/me.jpg"
-    imageWidth: 180
+    imageWidth: 200
     imageHeight: 180
   #   buttons:
   #     - name: Resume
