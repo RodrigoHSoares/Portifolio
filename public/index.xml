@@ -2,71 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rodrigo Soares</title>
-    <link>https:/</link>
+    <link>https://rodrigosoares.netlify.app/</link>
     <description>Recent content on Rodrigo Soares</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https:/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rodrigosoares.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I passed the AWS Cloud Practitioner</title>
-      <link>https:/blog/aws-cp-certification/</link>
+      <link>https://rodrigosoares.netlify.app/blog/aws-cp-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/blog/aws-cp-certification/</guid>
-      <description>How I&amp;#39;m studying to pass the AWS Solutions Architect-Associate Certification Exam</description>
-    </item>
-    
-    <item>
-      <title>Face Landmarks Detection using CNN</title>
-      <link>https:/blog/face-landmarks-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/blog/face-landmarks-detection/</guid>
-      <description>Can computers really understand the human face?</description>
-    </item>
-    
-    <item>
-      <title>Face Dataset Compression using PCA</title>
-      <link>https:/blog/face-dataset-compression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/blog/face-dataset-compression/</guid>
-      <description>Principal Component Analysis for Image Dataset Compression</description>
+      <guid>https://rodrigosoares.netlify.app/blog/aws-cp-certification/</guid>
+      <description>How I&amp;#39;m studying to pass the AWS Cloud Practitioner Exam</description>
     </item>
     
     <item>
       <title>Climb The Clouds (Escalando a nuvem)</title>
-      <link>https:/projects/automated-image-captioning/</link>
+      <link>https://rodrigosoares.netlify.app/projects/climb-the-clouds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/projects/automated-image-captioning/</guid>
+      <guid>https://rodrigosoares.netlify.app/projects/climb-the-clouds/</guid>
       <description>Applying Twelve-Factor to a Website</description>
     </item>
     
     <item>
-      <title>Face Landmarks Detection using CNN</title>
-      <link>https:/projects/face-landmarks-detection/</link>
+      <title>DevOps - Covid Countdown</title>
+      <link>https://rodrigosoares.netlify.app/projects/covid-countdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/projects/face-landmarks-detection/</guid>
-      <description>Can computers really understand the human face?</description>
+      <guid>https://rodrigosoares.netlify.app/projects/covid-countdown/</guid>
+      <description>Automate application deployment</description>
     </item>
     
     <item>
-      <title>Backend Engineer</title>
-      <link>https:/experience/buyerassist/</link>
+      <title>DevOps Intern</title>
+      <link>https://rodrigosoares.netlify.app/experience/climb-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/experience/buyerassist/</guid>
-      <description>BuyerAssist (India)</description>
-    </item>
-    
-    <item>
-      <title>Computer Vision Intern</title>
-      <link>https:/experience/iit-madras/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/experience/iit-madras/</guid>
-      <description>IIT Madras (India)</description>
+      <guid>https://rodrigosoares.netlify.app/experience/climb-cloud/</guid>
+      <description>Climb the Clouds</description>
     </item>
     
     

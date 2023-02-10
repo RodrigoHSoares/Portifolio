@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AWS on Rodrigo Soares</title>
-    <link>https:/tags/aws/</link>
+    <link>https://rodrigosoares.netlify.app/tags/aws/</link>
     <description>Recent content in AWS on Rodrigo Soares</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https:/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rodrigosoares.netlify.app/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I passed the AWS Cloud Practitioner</title>
-      <link>https:/blog/aws-cp-certification/</link>
+      <link>https://rodrigosoares.netlify.app/blog/aws-cp-certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/blog/aws-cp-certification/</guid>
-      <description>How I&amp;#39;m studying to pass the AWS Solutions Architect-Associate Certification Exam</description>
+      <guid>https://rodrigosoares.netlify.app/blog/aws-cp-certification/</guid>
+      <description>How I&amp;#39;m studying to pass the AWS Cloud Practitioner Exam</description>
     </item>
     
     <item>
       <title>Climb The Clouds (Escalando a nuvem)</title>
-      <link>https:/projects/automated-image-captioning/</link>
+      <link>https://rodrigosoares.netlify.app/projects/climb-the-clouds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/projects/automated-image-captioning/</guid>
+      <guid>https://rodrigosoares.netlify.app/projects/climb-the-clouds/</guid>
       <description>Applying Twelve-Factor to a Website</description>
     </item>
     
     <item>
-      <title>Backend Engineer</title>
-      <link>https:/experience/buyerassist/</link>
+      <title>DevOps - Covid Countdown</title>
+      <link>https://rodrigosoares.netlify.app/projects/covid-countdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/experience/buyerassist/</guid>
-      <description>BuyerAssist (India)</description>
+      <guid>https://rodrigosoares.netlify.app/projects/covid-countdown/</guid>
+      <description>Automate application deployment</description>
     </item>
     
   </channel>

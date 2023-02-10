@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Rodrigo Soares"
-    subtitle: Incoming [**Web Programmer**](https://imdfic.imd.ufrn.br/index) at the **University of Rio Grande Do Norte** and Software Engineer 🧑🏻‍💻 at [**Estácio de Sá University**](https://estacio.br/cursos/graduacao/engenharia-de-software). <br><br> If you want to know me better, I suggest you explore this clean and simple site. <br>You can start by clicking the **links above** or accessing my **social media**. You can also send an **e-mail** using the icons below. 
+    subtitle: As a highly motivated and driven [**Software Engineer**](https://estacio.br/cursos/graduacao/engenharia-de-software). <br> I am committed to delivering innovative and impactful technology solutions. With experience in DevOps and a commitment to continuous learning, I am confident in my ability to quickly adapt to new technologies and methodologies. <br> I am excited to share my portfolio with you and showcase my skills and experiences. 
     imageUrl: "home/me.jpg"
     imageWidth: 180
     imageHeight: 180

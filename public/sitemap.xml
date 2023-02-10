@@ -2,74 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https:/blog/aws-cp-certification/</loc>
+    <loc>https://rodrigosoares.netlify.app/blog/aws-cp-certification/</loc>
   </url><url>
-    <loc>https:/blog/face-landmarks-detection/</loc>
+    <loc>https://rodrigosoares.netlify.app/projects/climb-the-clouds/</loc>
   </url><url>
-    <loc>https:/blog/face-dataset-compression/</loc>
+    <loc>https://rodrigosoares.netlify.app/projects/covid-countdown/</loc>
   </url><url>
-    <loc>https:/projects/automated-image-captioning/</loc>
+    <loc>https://rodrigosoares.netlify.app/experience/climb-cloud/</loc>
   </url><url>
-    <loc>https:/projects/face-landmarks-detection/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/aws/</loc>
   </url><url>
-    <loc>https:/experience/buyerassist/</loc>
+    <loc>https://rodrigosoares.netlify.app/blog/</loc>
   </url><url>
-    <loc>https:/experience/iit-madras/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/buildpack/</loc>
   </url><url>
-    <loc>https:/tags/ai/</loc>
+    <loc>https://rodrigosoares.netlify.app/categories/</loc>
   </url><url>
-    <loc>https:/tags/aws/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/certification/</loc>
   </url><url>
-    <loc>https:/blog/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/ci/cd/</loc>
   </url><url>
-    <loc>https:/tags/buildpack/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/cloud-practitioner/</loc>
   </url><url>
-    <loc>https:/categories/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/compose/</loc>
   </url><url>
-    <loc>https:/tags/certification/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/devops/</loc>
   </url><url>
-    <loc>https:/tags/cloud-practitioner/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/docker/</loc>
   </url><url>
-    <loc>https:/tags/compose/</loc>
+    <loc>https://rodrigosoares.netlify.app/experience/</loc>
   </url><url>
-    <loc>https:/tags/data-compression/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/fusoeseaquisicoes/</loc>
   </url><url>
-    <loc>https:/tags/devops/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/jenkins/</loc>
   </url><url>
-    <loc>https:/tags/dl/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/php/</loc>
   </url><url>
-    <loc>https:/tags/docker/</loc>
+    <loc>https://rodrigosoares.netlify.app/projects/</loc>
   </url><url>
-    <loc>https:/experience/</loc>
+    <loc>https://rodrigosoares.netlify.app/</loc>
   </url><url>
-    <loc>https:/tags/express/</loc>
+    <loc>https://rodrigosoares.netlify.app/search/</loc>
   </url><url>
-    <loc>https:/tags/fusoeseaquisicoes/</loc>
-  </url><url>
-    <loc>https:/tags/mern-stack/</loc>
-  </url><url>
-    <loc>https:/tags/ml/</loc>
-  </url><url>
-    <loc>https:/tags/mongodb/</loc>
-  </url><url>
-    <loc>https:/tags/nodejs/</loc>
-  </url><url>
-    <loc>https:/tags/pca/</loc>
-  </url><url>
-    <loc>https:/tags/php/</loc>
-  </url><url>
-    <loc>https:/projects/</loc>
-  </url><url>
-    <loc>https:/tags/python/</loc>
-  </url><url>
-    <loc>https:/tags/pytorch/</loc>
-  </url><url>
-    <loc>https:/</loc>
-  </url><url>
-    <loc>https:/search/</loc>
-  </url><url>
-    <loc>https:/tags/</loc>
-  </url><url>
-    <loc>https:/tags/typescript/</loc>
+    <loc>https://rodrigosoares.netlify.app/tags/</loc>
   </url>
 </urlset>

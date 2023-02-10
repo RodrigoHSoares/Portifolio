@@ -2,196 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Rodrigo Soares</title>
-    <link>https:/tags/</link>
+    <link>https://rodrigosoares.netlify.app/tags/</link>
     <description>Recent content in Tags on Rodrigo Soares</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https:/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI</title>
-      <link>https:/tags/ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/ai/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://rodrigosoares.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS</title>
-      <link>https:/tags/aws/</link>
+      <link>https://rodrigosoares.netlify.app/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/aws/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BuildPack</title>
-      <link>https:/tags/buildpack/</link>
+      <link>https://rodrigosoares.netlify.app/tags/buildpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/buildpack/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/buildpack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Certification</title>
-      <link>https:/tags/certification/</link>
+      <link>https://rodrigosoares.netlify.app/tags/certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/certification/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/certification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>https://rodrigosoares.netlify.app/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigosoares.netlify.app/tags/ci/cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud Practitioner</title>
-      <link>https:/tags/cloud-practitioner/</link>
+      <link>https://rodrigosoares.netlify.app/tags/cloud-practitioner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/cloud-practitioner/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/cloud-practitioner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compose</title>
-      <link>https:/tags/compose/</link>
+      <link>https://rodrigosoares.netlify.app/tags/compose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/compose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Compression</title>
-      <link>https:/tags/data-compression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/data-compression/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/compose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https:/tags/devops/</link>
+      <link>https://rodrigosoares.netlify.app/tags/devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DL</title>
-      <link>https:/tags/dl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/dl/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https:/tags/docker/</link>
+      <link>https://rodrigosoares.netlify.app/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Express</title>
-      <link>https:/tags/express/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/express/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fusoeseaquisicoes</title>
-      <link>https:/tags/fusoeseaquisicoes/</link>
+      <link>https://rodrigosoares.netlify.app/tags/fusoeseaquisicoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/fusoeseaquisicoes/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/fusoeseaquisicoes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MERN Stack</title>
-      <link>https:/tags/mern-stack/</link>
+      <title>Jenkins</title>
+      <link>https://rodrigosoares.netlify.app/tags/jenkins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/mern-stack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>https:/tags/ml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MongoDB</title>
-      <link>https:/tags/mongodb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/mongodb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NodeJS</title>
-      <link>https:/tags/nodejs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/nodejs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PCA</title>
-      <link>https:/tags/pca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/pca/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/jenkins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PHP</title>
-      <link>https:/tags/php/</link>
+      <link>https://rodrigosoares.netlify.app/tags/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https:/tags/php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https:/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https:/tags/pytorch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TypeScript</title>
-      <link>https:/tags/typescript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https:/tags/typescript/</guid>
+      <guid>https://rodrigosoares.netlify.app/tags/php/</guid>
       <description></description>
     </item>
     
