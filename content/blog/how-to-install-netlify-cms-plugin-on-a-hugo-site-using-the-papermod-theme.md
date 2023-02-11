@@ -33,32 +33,28 @@ To install the Netlify CMS plugin on a Hugo site using the Papermod theme, you w
     
 ### 3.  In your Hugo site's `config.toml` file, add the following line to specify the Papermod theme:
     
-    makefileCopy code
-    
-    theme = "hugo-papermod-theme"` 
+        
+    theme = "hugo-papermod-theme" 
     
 ### 4.  Create a new `static` directory in your Hugo site:
     
-    javascriptCopy code
-    
-    `mkdir static 
+        
+    mkdir static 
     
 ### 5.  Download the latest version of Netlify CMS from the official repository:
     
-    bashCopy code
-    
-    `curl https://cdn.jsdelivr.net/npm/netlify-cms@2.13.2/dist/netlify-cms.js > static/netlify-cms.js` 
+       
+    curl https://cdn.jsdelivr.net/npm/netlify-cms@2.13.2/dist/netlify-cms.js > static/netlify-cms.js` 
     
 ### 6.  Create a new `admin` directory in your Hugo site:
     
-    bashCopy code
-    
-    `mkdir admin` 
+        
+    mkdir admin 
     
 ### 7.  Create a new `index.html` file in the `admin` directory with the following content:
     
        
-    `<!DOCTYPE html>
+    <!DOCTYPE html>
     <html>
     <head>
       <meta charset="utf-8">
@@ -69,12 +65,12 @@ To install the Netlify CMS plugin on a Hugo site using the Papermod theme, you w
       <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       <script src="/netlify-cms.js"></script>
     </body>
-    </html>` 
+    </html> 
     
 ### 8.  In your Hugo site's `config.toml` file, add the following lines to configure Netlify CMS:
     
        
-    `baseURL = "https://your-site.com"
+    baseURL = "https://your-site.com"
     [backend]
       name = "git-gateway"
     [mediaLibrary]
@@ -83,7 +79,7 @@ To install the Netlify CMS plugin on a Hugo site using the Papermod theme, you w
         cloud_name = "your-cloud-name",
         api_key = "your-api-key",
         api_secret = "your-api-secret"
-      }` 
+      } 
     
 ### 9.  Push your Hugo site to a Git repository.
     
