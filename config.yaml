@@ -64,6 +64,7 @@ params:
   cover:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+    
 
   socialIcons:
     - name: "email"

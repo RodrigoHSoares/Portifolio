@@ -1,10 +1,10 @@
 ---
 title: "I am currently preparing to take the AWS Solutions Architect Associate exam"
-description: "How I'm preparinh to pass the AWS Solutions Architect Associate exam"
+description: "How I'm preparing to pass the AWS Solutions Architect Associate exam"
 dateString: May 2022
 draft: false
 tags: ["AWS", "Certification", "Solutions Architect Associate ", "SAA"]
-weight: 101
+weight: 102
 cover:
     image: "/blog/aws-saa-certification/cover.png"
 ---
