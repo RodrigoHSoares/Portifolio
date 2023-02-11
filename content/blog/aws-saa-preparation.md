@@ -4,9 +4,9 @@ description: "How I'm preparing to pass the AWS Solutions Architect Associate ex
 dateString: May 2022
 draft: false
 tags: ["AWS", "Certification", "Solutions Architect Associate ", "SAA"]
-weight: 102
+weight: 101
 cover:
-image: "/blog/aws-saa-certification/cover.png"
+     image: "/blog/aws-saa-certification/cover.png"
 ---
 # Introduction
 

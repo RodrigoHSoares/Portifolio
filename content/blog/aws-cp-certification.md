@@ -4,9 +4,9 @@ description: "How I'm studying to pass the AWS Cloud Practitioner Exam"
 dateString: May 2022
 draft: false
 tags: ["AWS", "Certification", "Cloud Practitioner"]
-weight: 101
+weight: 102
 cover:
-image: "/blog/aws-cp-certification/cover.png"
+     image: "/blog/aws-cp-certification/cover.png"
 ---
 
 # Credential

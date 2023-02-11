@@ -4,9 +4,9 @@ description: "Learn how to install SugarCRM on Ubuntu and run it on a local host
 dateString: February 2023
 draft: false
 tags: ["SugarCRM", "LAMP", "Ubuntu", "Installation", "Localhost"]
-weight: 103
+weight: 100
 cover:
-    image: "/blog/sugarcrm-lamp-installation/cover.png"
+     image: "/blog/sugarcrm-lamp-installation/cover.png"
 ---
 
 # Introduction
