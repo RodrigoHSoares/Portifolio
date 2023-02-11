@@ -1,19 +1,19 @@
 ---
-Title: Installing Netlify CMS plugin on a Hugo site using the Papermod theme
-description: Learn how to install Netlify CMS plugin on a Hugo site using the
-  Papermod theme.
-dateString: February 2023
 draft: false
+date: 2023-02-11T21:32:31.365Z
+cover:
+  image: /blog/netlifycms-papermod/cover.jpeg
+Title: Installing Netlify CMS plugin on a Hugo site using the Papermod theme
+title: How to install Netlify CMS plugin on a Hugo site using the Papermod theme
+weight: 100
 tags:
   - Netlify CMS
   - HUGO
   - PaperMod Theme
   - Installation
-weight: 100
-cover:
-  image: /blog/netlifycms-papermod/cover.jpeg
-title: How to install Netlify CMS plugin on a Hugo site using the Papermod theme
-date: 2023-02-11T21:32:31.365Z
+description: Learn how to install Netlify CMS plugin on a Hugo site using the
+  Papermod theme.
+dateString: February 2023
 ---
 ## Introduction
 To install the Netlify CMS plugin on a Hugo site using the Papermod theme, you will need to follow these steps:
@@ -35,13 +35,13 @@ To install the Netlify CMS plugin on a Hugo site using the Papermod theme, you w
     
     makefileCopy code
     
-    `theme = "hugo-papermod-theme"` 
+    theme = "hugo-papermod-theme"` 
     
 ### 4.  Create a new `static` directory in your Hugo site:
     
     javascriptCopy code
     
-    `mkdir static` 
+    `mkdir static 
     
 ### 5.  Download the latest version of Netlify CMS from the official repository:
     
