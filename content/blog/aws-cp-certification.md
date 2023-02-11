@@ -6,7 +6,7 @@ draft: false
 tags: ["AWS", "Certification", "Cloud Practitioner"]
 weight: 101
 cover:
-    image: "/blog/aws-cp-certification/cover.png"
+image: "/blog/aws-cp-certification/cover.png"
 ---
 
 # Credential

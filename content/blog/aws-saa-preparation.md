@@ -6,7 +6,7 @@ draft: false
 tags: ["AWS", "Certification", "Solutions Architect Associate ", "SAA"]
 weight: 102
 cover:
-    image: "/blog/aws-saa-certification/cover.png"
+image: "/blog/aws-saa-certification/cover.png"
 ---
 # Introduction
 
