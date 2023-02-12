@@ -2,7 +2,7 @@
 draft: false
 date: 2023-02-11T21:32:31.365Z
 cover:
-  image: /blog/netlifycms-papermod/cover.jpeg
+   image: /blog/netlifycms-papermod/cover.jpeg
 Title: Installing Netlify CMS plugin on a Hugo site using the Papermod theme
 title: How to install Netlify CMS plugin on a Hugo site using the Papermod theme
 weight: 100
