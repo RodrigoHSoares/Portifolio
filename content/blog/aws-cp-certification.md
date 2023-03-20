@@ -1,12 +1,16 @@
 ---
-title: "I passed the AWS Cloud Practitioner"
-description: "How I'm studying to pass the AWS Cloud Practitioner Exam"
-dateString: May 2022
 draft: false
-tags: ["AWS", "Certification", "Cloud Practitioner"]
-weight: 102
+date: 2023-03-20T19:38:17.148Z
 cover:
-     image: "/blog/aws-cp-certification/cover.png"
+  image: /blog/aws-cp-certification/cover.png
+title: I passed the AWS Cloud Practitioner Certification Exam!
+weight: 102
+tags:
+  - AWS
+  - Certification
+  - Cloud Practitioner
+description: How I'm studying to pass the AWS Cloud Practitioner Exam
+dateString: May 2022
 ---
 
 # Credential
